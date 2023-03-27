@@ -1,5 +1,7 @@
 # Flappy Bird + AI
 
+<img src="FB.png" width="185" height="300" align="right">
+
 Este projeto é uma reimaginação do famoso Flappy Bird, porém com duas coisas diferentes:
   1. Os canos se movem para cima e para baixo, deixando o jogo um pouco mais desafiador.
   2. É possível ligar uma inteligência artificial para jogar.
